@@ -1,0 +1,24 @@
+
+/* any block of code below works */
+
+/* div .text{
+    background: yellow;
+    text-align: center;
+    color: red;
+    font-size:20px;
+} */
+
+/* .container .text{
+    background: yellow;
+    text-align: center;
+    color: red;
+    font-size:20px;
+
+} */
+
+.container p{
+    background: yellow;
+    text-align: center;
+    color: red;
+    font-size:20px;
+}
